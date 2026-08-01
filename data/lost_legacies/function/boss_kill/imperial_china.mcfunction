@@ -1,0 +1,2 @@
+advancement revoke @s only lost_legacies:boss_kill/imperial_china
+function lost_legacies:attacks/imperial_china_minions

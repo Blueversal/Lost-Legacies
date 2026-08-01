@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:jigsaw",
+  "start_pool": "lost_legacies:pirate",
+  "size": 1,
+  "max_distance_from_center": 116,
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "none",
+  "start_height": {
+    "absolute": -6
+  },
+  "biomes": [
+    "minecraft:ocean",
+    "minecraft:warm_ocean",
+    "minecraft:lukewarm_ocean"
+  ],
+  "use_expansion_hack": false,
+  "project_start_to_heightmap": "WORLD_SURFACE_WG"
+}

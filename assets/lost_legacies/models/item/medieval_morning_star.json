@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "lost_legacies:item/medieval_morning_star"
+  }
+}

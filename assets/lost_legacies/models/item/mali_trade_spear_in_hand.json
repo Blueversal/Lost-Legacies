@@ -1,0 +1,6 @@
+{
+  "parent": "item/spear_in_hand",
+  "textures": {
+    "layer0": "lost_legacies:item/mali_trade_spear_in_hand"
+  }
+}
